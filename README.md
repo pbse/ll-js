@@ -8,6 +8,7 @@ This LinkedList data structure is a Singly Linked List.
   npm install linkedlist-js --save
 
 ## Usage
+```
 
   var ll = require('linkedlist-js')
       LinkedList = ll.LinkedList;
@@ -22,6 +23,7 @@ This LinkedList data structure is a Singly Linked List.
   obj.show(); // Logs all elements
   newobj.show(); // Logs null element
   
+```  
 ## Tests
 
   npm test
