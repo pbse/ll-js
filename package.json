@@ -1,6 +1,6 @@
 {
   "name": "ll-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JS Library for LinkedList",
   "main": "index.js",
   "scripts": {
