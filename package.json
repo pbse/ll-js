@@ -1,6 +1,6 @@
 {
   "name": "linkedlist-js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "JS Library for LinkedList",
   "main": "index.js",
   "scripts": {
