@@ -5,12 +5,12 @@ This LinkedList data structure is a Singly Linked List.
 
 ## Installation
 
-  npm install linkedlist-js --save
+  npm install ll-js --save
 
 ## Usage
 ```
 
-  var ll = require('linkedlist-js')
+  var ll = require('ll-js')
       LinkedList = ll.LinkedList;
 
   var obj = new LinkedList();
